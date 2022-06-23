@@ -1,2 +1,3 @@
 content 1 nothing
 content 2 my name is Giang
+content 3 hello magit
